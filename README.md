@@ -15,7 +15,7 @@ Use in the template ```<lorem add="2p"></lorem>```
 
 Lorem.js has a simple query language: "how many?, what?"
 
-2p = 2 paragraphs
-5s = 5 sentences
-6w = 6 words
-1-6w = between 1 and 6 words
+ - 2p = 2 paragraphs => ```<lorem add="2p" />```
+ - 5s = 5 sentences => ```<lorem add="5s" />```
+ - 6w = 6 words => ```<lorem add="6w" />```
+ - 1-6w = between 1 and 6 words => ```<lorem add="1-6w" />```
