@@ -1,5 +1,9 @@
 ## Lorem ipsum text generator for vue.js
 
+### Demo
+
+ See [DEMO](https://shershen08.github.io/vue-plugins-demo-static/index.html#/lorem) here
+
 ### Installation
 
 Run ```npm install vue-lorem-ipsum --save```
